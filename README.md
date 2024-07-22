@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rowlandoka
-- 👀 I’m interested in building modern web apps using modern technologies.
+- 👀 I develop primarily with JavaScript, React, Nextjs, Tailwindcss and Nodejs.
 - 🌱 Passionate about modern technologies that deliver excellent user experience.
 - 💞️ I learn by doing thereby open to collaboration and team work.
 - 📫 How to reach me email me at: rowlandoka@gmail.com
